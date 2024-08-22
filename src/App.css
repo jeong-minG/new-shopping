@@ -1,0 +1,13 @@
+.login-button{
+    display: flex;justify-content: flex-end; column-gap: 5px; align-items: center; margin:20px;cursor: pointer;
+}
+
+.nav-section{display: flex; justify-content: center; align-items: center;}
+.menu-area{display: flex; justify-content: center; align-items: center;position: relative;}
+.menu-list{display: flex; column-gap: 10px; list-style: none;}
+.search-area{position: absolute; right: 10px; top:0; border-bottom: 1px solid #333;}
+.search-area input{border:0; padding-bottom: 5px;}
+
+.container img{width:320px;}
+
+.product-card:hover{transform: scale(1.15); z-index: 10; background-color: #fff;}
