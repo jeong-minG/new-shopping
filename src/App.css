@@ -11,3 +11,5 @@
 .container img{width:320px;}
 
 .product-card:hover{transform: scale(1.15); z-index: 10; background-color: #fff;}
+
+.product-img{display: flex; justify-content: flex-end;}
